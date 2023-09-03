@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Solving bugs and developing ideas since 2023<br>📚 I'm currently learning: everything that is useful <br>🎯 Goals: a lot..<br>🎲 Fun fact: i like randomness</p>
+<p align="left">✨ Solving bugs and developing ideas since 2023<br>📚 I'm currently learning: everything that is useful <br>🎯 Goals: a lot..<br>🎲 Fun fact: i like books and randomness</p>
 
 ###
 
