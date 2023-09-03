@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an enthusiast and hardworking android developer 📱<br>Very passionate for resolving problems with the simplest ways 🧐 <br>An incredible and sympathic person to talk about a lot of topics 😁	<br>I value the powerful usage of  the logic  🧠		<br>I love help others 🤝<br>"Programming is a tool to solve problems"<br><br>My main speciality is Android Development, but despite my great learning process, i can and intend learn more programming languages, for solving more problems</p>
+<p align="left">I'm an enthusiast and hardworking android developer 📱<br>Very passionate for resolving problems with the simplest ways 🧐 <br>An incredible and sympathic person to talk about a lot of topics 😁	<br>I value the powerful usage of  the logic  🧠		<br>I love helping others 🤝<br>"Programming is a tool to solve problems"<br><br>My main speciality is Android Development, but despite my great learning process, i can and intend learn more programming languages, for solving more problems</p>
 
 ###
 
@@ -10,16 +10,16 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning everything that is useful <br>🎯 Goals: a lot..<br>🎲 Fun fact: i like randomness</p>
+<p align="left">✨ Solving bugs and developing ideas since 2023<br>📚 I'm currently learning: everything that is useful <br>🎯 Goals: a lot..<br>🎲 Fun fact: i like randomness</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with (for now...)</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
