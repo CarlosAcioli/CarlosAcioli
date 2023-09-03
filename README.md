@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Carlos Acioli</h1>
+<h1 align="center">Hi, I'm Carlos Acioli 💻</h1>
 <h3 align="center">An enthusiast and hardworking android developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/CarlosAcioli](https://github.com/CarlosAcioli)
