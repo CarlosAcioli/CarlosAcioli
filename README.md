@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an enthusiast and hardworking android developer 📱<br>Very passionate for resolving problems with the simplest ways 🧐 <br>An incredible and sympathic person to talk about a lot of topics 😁	<br>I value the powerful usage of  the logic  🧠		<br>I love helping others 🤝<br>"Programming is a tool to solve problems"<br><br>My main speciality is Android Development, but despite my great learning process, i can and intend learn more programming languages, for solving more problems</p>
+<p align="left">I'm an enthusiast and hardworking android developer 📱<br>Very passionate for resolving problems with the simplest ways 🧐 <br>An incredible and sympathic person to talk about a lot of topics 😁	<br>I value the powerful usage of  the logic  🧠		<br>I love helping others 🤝<br>"Programming is a tool to solve problems"<br><br>My main speciality is Android Development, but due my great learning process, i can and intend learn more programming languages, for solving more problems</p>
 
 ###
 
