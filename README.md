@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Solving bugs and developing ideas since 2023<br>📚 I'm currently learning: everything that is useful <br>🎯 Goals: a lot..<br>🎲 Fun fact: i like books and randomness</p>
+<p align="left">✨ Solving bugs and developing ideas since 2023<br>📚 I'm currently learning: everything that is useful <br>🎯 Goals: Mastering Mobile Development and Deep Reinforcement Learning<br>🎲 Fun fact: i like books and randomness</p>
 
 ###
 
@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo" />
 </div>
 
 ###
