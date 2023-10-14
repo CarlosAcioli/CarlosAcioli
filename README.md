@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" height="40" alt="androidstudio logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/800px-Android_Studio_icon_%282023%29.svg.png" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
