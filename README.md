@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">I'm an enthusiast and hardworking android developer 📱<br>Very passionate for resolving problems in the simplest ways 🧐 <br>"Programming is a tool to solve problems" ⚙️<br>Solving bugs and developing ideas 💡</p>
+<p align="left">Entusiasta da área de dados 🎲<br>Focado em transformar informações em decisões 🎯<br></p>
 
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Ferramentas essencias:</h2>
 
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/800px-Android_Studio_icon_%282023%29.svg.png" height="40" alt="androidstudio logo"  />
+  <img src="https://www.ibm.com/content/adobe-cms/br/pt/products/instana/supported-technologies/microsoft-sql-server-monitoring/jcr:content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage.coreimg.png/1776445839822/azure-sql-server-monitoring.png" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
