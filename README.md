@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou Carlos Acioli!
+# Carlos Acioli 
 
 ### 💻 Desenvolvedor de Software | Android | Backend | Full Stack | Data
 
 Sou desenvolvedor com experiência prática em **Mobile, Backend, Full Stack e Engenharia/Análise de Dados**, com foco em construir soluções bem estruturadas, resolver problemas e aprender continuamente novas tecnologias.
 
-Atualmente, venho expandindo minha atuação principalmente em **Python, Engenharia de Dados e Inteligência Artificial**, sem deixar de lado minha experiência com desenvolvimento **Android/Kotlin**.
+Atualmente, venho expandindo minha atuação principalmente em **Python, Engenharia de Dados e Inteligência Artificial**, sem deixar de lado minha experiência com desenvolvimento **Kotlin** baseado em Java, para backend principalmente.
 
 ---
 
@@ -52,7 +52,7 @@ Atualmente, venho expandindo minha atuação principalmente em **Python, Engenha
 
 ---
 
-## 🎯 Atualmente estudando
+## 🎯 Atualmente atuo com:
 
 * ☕ Java
 * 🐍 Python avançado
@@ -62,11 +62,3 @@ Atualmente, venho expandindo minha atuação principalmente em **Python, Engenha
 * 🏗️ Arquitetura de Software
 * ☁️ Cloud Computing
 * ⚙️ Automação de processos
-
----
-
-## 📈 Meu objetivo
-
-Busco oportunidades em **Desenvolvimento de Software, Android, Backend, Full Stack, Engenharia de Dados e IA**, onde possa aplicar meus conhecimentos, contribuir para projetos reais e continuar evoluindo tecnicamente.
-
-Gosto especialmente de problemas que envolvem **desenvolvimento de sistemas, automação, processamento de dados e construção de soluções escaláveis**.
